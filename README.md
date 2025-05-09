@@ -73,8 +73,9 @@ Feito com ❤️ por [Elias] | Estudante de Análise e Desenvolvimento de Sistem
 
 *Última atualização: [08/05/2025]*  
 
-```markdown
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![Estácio](https://img.shields.io/badge/Universidade-Estácio-blue)](https://estacio.br/)
-```
+<p align="left">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img style="width: 85; height: 33; alt="Universidade Estacio" src="https://img.shields.io/badge/Universidade-Estácio-blue"/>
+</p>
+
 
