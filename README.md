@@ -6,7 +6,7 @@
 ## 📝 Exemplo rápido
 ```java
 System.out.println("Olá, POO!");
-
+```
 # Repositório de Estudos - Programação Orientada a Objetos em Java 🚀
 
 Bem-vindo ao meu repositório de estudos de **Programação Orientada a Objetos (POO)** em Java, desenvolvido durante o curso na **Universidade Estácio**! Aqui você encontrará materiais, exercícios, projetos e anotações relacionados à disciplina.
