@@ -1,3 +1,4 @@
+package escola;
 public class Empregado extends Pessoa {
     // Atributos
     protected String matricula;
