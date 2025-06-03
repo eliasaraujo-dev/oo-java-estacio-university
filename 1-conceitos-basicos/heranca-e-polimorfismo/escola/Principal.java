@@ -1,6 +1,4 @@
-import escola.Diretor;
-import escola.Empregado;
-
+package escola;
 public class Principal {
     // Atributos
     private static Empregado empregado, diretor;

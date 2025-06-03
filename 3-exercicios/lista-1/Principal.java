@@ -1,3 +1,5 @@
+import escola.Principal;
+
 public class Principal {
     public int maiorElem(int a, int b) {
         int maior = a;
