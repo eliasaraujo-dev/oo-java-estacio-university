@@ -76,7 +76,7 @@ Feito com ❤️ por [Elias] | Estudante de Análise e Desenvolvimento de Sistem
 📧 **Contato:** eliasaraujxdev@dominio.com  
 🔗 **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/eliasaraujx)  
 
-*Última atualização: [02/06/2025]*  
+*Última atualização: [10/06/2025]*  
 
 <p align="left">
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
