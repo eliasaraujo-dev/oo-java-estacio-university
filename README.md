@@ -26,23 +26,28 @@ Este repositório foi criado para organizar e compartilhar meus estudos em **POO
 
 ```
 📦 poo-java-estacio
-├── 📂 1-conceitos-basicos
-│   ├── 📜 classes-e-objetos
-│   ├── 📜 encapsulamento
-│   ├── 📜 heranca
-│   └── 📜 polimorfismo
+├── 📂 1-conceitos
+│   ├── 📂 basico
+│   │   ├── 📂 classes-e-objetos
+│   │   ├── 📂 encapsulamento
+│   │   └── 📂 heranca e polimorfismo
+│   └── 📂 avancado
+│       ├── 📂 agrupamento-de-objetos
+│       ├── 📂 
+│       ├── 📂 
+│       └── 📂 
 ├── 📂 2-projetos
-│   ├── 📜 1-sistema-empresarial
-│   ├── 📜 loading
-│   └── 📜 loading
+│   ├── 📂 1-sistema-empresarial
+│   ├── 📂 2-sistema-bancario
+│   └── 📂 3-escola-brasil
 ├── 📂 3-exercicios
 │   ├── 📂 lista-1
 │   ├── 📂 lista-2
 │   └── 📂 desafios
 ├── 📂 4-anotacoes-aulas
-│   ├── 📜 PilaresPOO.md
-│   ├── 📜 
-│   └── 📜 
+│   ├── 📜 boas-praticas.md
+│   ├── 📜 design-patterns.md
+│   └── 📜 pilaresPOO.md
 └── 📜 README.md
 ```
 
@@ -71,7 +76,7 @@ Feito com ❤️ por [Elias] | Estudante de Análise e Desenvolvimento de Sistem
 📧 **Contato:** eliasaraujxdev@dominio.com  
 🔗 **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/eliasaraujx)  
 
-*Última atualização: [02/06/2025]*  
+*Última atualização: [10/06/2025]*  
 
 <p align="left">
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
