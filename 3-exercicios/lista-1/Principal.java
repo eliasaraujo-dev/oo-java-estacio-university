@@ -1,4 +1,4 @@
-import escola.Principal;
+import Escola.Principal;
 
 public class Principal {
     public int maiorElem(int a, int b) {
