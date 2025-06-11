@@ -1,8 +1,4 @@
-Aqui está a explicação simplificada (como para uma criança de 10 anos) e o resumo em 5 pontos-chave:
-
----
-
-### Explicação para "10 anos":
+### Explicação fácil
 **Imagina que você tem um monte de brinquedos espalhados. O `Collectors.groupingBy` no Java é como uma máquina mágica que organiza eles pra você!**
 
 1.  **Separando Frutas:**  
